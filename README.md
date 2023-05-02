@@ -30,8 +30,6 @@
   ## 7. 구현 화면
   |메인페이지|로그인페이지|
 |------|------|
-|![main](https://user-images.githubusercontent.com/97607752/235610581-082d5af5-4ef9-4b84-81b6-e0111a150ef4.jpg)
- |![login1](https://user-images.githubusercontent.com/97607752/235611001-f98bcb37-121d-425c-a504-28dde0553609.jpg)
-|
+|![main](https://user-images.githubusercontent.com/97607752/235610581-082d5af5-4ef9-4b84-81b6-e0111a150ef4.jpg)|![login1](https://user-images.githubusercontent.com/97607752/235611001-f98bcb37-121d-425c-a504-28dde0553609.jpg)|
   
   
