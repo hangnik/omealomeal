@@ -1,5 +1,5 @@
  # omealomeal
-![logo](https://user-images.githubusercontent.com/97607752/235604311-8f93057d-40d2-4b69-891a-42f74ff096ab.png)
+![logo](https://user-images.githubusercontent.com/97607752/235608835-bd29b606-ddc6-444b-82a2-ca0b3aec9a69.png)
 
   ## 프로젝트 소개
   서울의 맛집 정보를 제공하고 리뷰와 평점을 남길 수 있는 맛집 검색 웹사이트입니다.
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
    
   ## DB ERD
-  <img width="768" alt="db_erd" src="https://user-images.githubusercontent.com/97607752/234818032-d8e0c2da-2484-48cc-8ece-2defa69e9634.png">
+ ![erd](https://user-images.githubusercontent.com/97607752/235608909-0995c087-f38f-48c2-a452-ad2c2713613f.jpg)
 
   ## 6. 담당 기능
   - javascript와 jquery를 사용하여 검색 키워드를 검색결과 창으로 전달
