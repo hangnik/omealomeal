@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
    
   ## DB ERD
- ![erd](https://user-images.githubusercontent.com/97607752/235608909-0995c087-f38f-48c2-a452-ad2c2713613f.jpg)
-
+ ![erd](https://user-images.githubusercontent.com/97607752/235611404-7f50c654-53f3-42e2-9809-4c6c29ef373f.jpg)
+ 
   ## 6. 담당 기능
   - javascript와 jquery를 사용하여 검색 키워드를 검색결과 창으로 전달
   - 음식 종류별로 간편하게 모아서 찾아볼 수 있도록 음식 카테고리를 구현
