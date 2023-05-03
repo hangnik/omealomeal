@@ -1,5 +1,7 @@
  # omealomeal
+ 
 ![logo](https://user-images.githubusercontent.com/97607752/235608835-bd29b606-ddc6-444b-82a2-ca0b3aec9a69.png)
+
 
   ## 프로젝트 소개
   서울의 맛집 정보를 제공하고 리뷰와 평점을 남길 수 있는 맛집 검색 웹사이트입니다.
